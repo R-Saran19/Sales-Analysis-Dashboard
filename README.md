@@ -90,5 +90,5 @@ Reduces manual reporting by delivering a self-service analytics tool for decisio
         Decision Support: With slicers, interactive visuals, and smart narrative summaries, stakeholders can make faster, data-driven decisions for inventory planning and store operations.
 
 ### 6.	Screenshots / Demos
-Show what the dashboard looks like. - ![Alt text]()
+Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
 Example: ![Dashboard Preview](https://github.com/R-Saran19/Sales-Analysis-Dashboard/blob/main/Dashboard%20Snapshot.png)
