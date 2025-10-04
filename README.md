@@ -41,6 +41,7 @@ The best dashboard explanation format.
 
 Example:
 •	Business Problem
+
 The grocery retail industry operates across multiple store locations, product categories, and customer segments. However, managers often lack a clear, consolidated view of:
 
 Which stores are performing best over time?
@@ -82,11 +83,11 @@ Reduces manual reporting by delivering a self-service analytics tool for decisio
         A narrative visual automatically generates a textual summary of overall sales trends and key insights, supporting faster interpretation for business users.
 
 •	Business Impact & Insights
-Sales Performance Tracking: Managers can easily compare sales across store locations and identify which branches are leading or lagging.
-Product & Category Analysis: Top products by sales and quantity, along with aisle-level breakdowns, highlight bestsellers and underperforming categories.
-Time-Based Trends: Yearly and quarterly trends reveal seasonal patterns and long-term growth opportunities.
-Customer & Order Insights: Key KPIs such as total sales, total quantity, total customers, and total orders provide a snapshot of business health.
-Decision Support: With slicers, interactive visuals, and smart narrative summaries, stakeholders can make faster, data-driven decisions for inventory planning and store operations.
+        Sales Performance Tracking: Managers can easily compare sales across store locations and identify which branches are leading or lagging.
+        Product & Category Analysis: Top products by sales and quantity, along with aisle-level breakdowns, highlight bestsellers and underperforming categories.
+        Time-Based Trends: Yearly and quarterly trends reveal seasonal patterns and long-term growth opportunities.
+        Customer & Order Insights: Key KPIs such as total sales, total quantity, total customers, and total orders provide a snapshot of business health.
+        Decision Support: With slicers, interactive visuals, and smart narrative summaries, stakeholders can make faster, data-driven decisions for inventory planning and store operations.
 
 ### 6.	Screenshots / Demos
 Show what the dashboard looks like. - ![Alt text]()
